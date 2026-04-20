@@ -1,0 +1,29 @@
+{
+  "rows": [
+    {
+      "model": "ddpm",
+      "beta": null,
+      "fid": 437.4358456809944
+    },
+    {
+      "model": "latent_ddpm",
+      "beta": 1e-06,
+      "fid": 79.003736973563
+    },
+    {
+      "model": "latent_ddpm",
+      "beta": 0.0001,
+      "fid": 81.04171843881232
+    },
+    {
+      "model": "latent_ddpm",
+      "beta": 0.01,
+      "fid": 80.51462122726161
+    },
+    {
+      "model": "vae_choice",
+      "beta": 0.0001,
+      "fid": 186.67401197648437
+    }
+  ]
+}
