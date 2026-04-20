@@ -1,6 +1,6 @@
 # Mini-project 2 — Advanced Machine Learning (02460)
 
-This archive contains a ready-to-run implementation for Mini-project 2 in Advanced Machine Learning (02460).
+This archive contains an implementation for Mini-project 2 in Advanced Machine Learning (02460).
 
 ## Project scope
 
